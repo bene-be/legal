@@ -1,4 +1,4 @@
-# algemene-voorwaarden
+# Algemene voorwaarden
 
 1. Alle handelingen, diensten en overeenkomsten van of met onze onderneming, zijn onderworpen aan de hierna volgende algemene voorwaarden. Ze zijn steeds van toepassing, dit met uitsluiting van de voorwaarden van de medecontractant, hierna genoemd “de klant”. De algemene voorwaarden maken integraal deel uit van onze contracten en er kan alleen schriftelijk van worden afgeweken. Door het sluiten van een overeenkomst of door het plaatsen van een bestelling, wordt de klant geacht deze algemene voorwaarden te kennen en deze integraal en zonder voorbehoud te aanvaarden.
 2. Onze offertes zijn slechts bindend wanneer ze door ons werden ondertekend en blijven, behoudens andersluidend beding, één maand geldig. Wijzigingen van lonen, sociale voordelen en lasten, valutawijzigingen, indexschommelingen en andere niet te voorziene omstandigheden op het ogenblik van de offerte of van de aanvaarding door de klant, machtigen ons tot evenredige prijsaanpassing.
