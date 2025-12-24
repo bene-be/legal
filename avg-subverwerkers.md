@@ -2,31 +2,38 @@
 
 Voor onze diensten en producten gebruiken we één of meerdere van de volgende subverwerkers:
 
+* Akamai
+* Amazon Web Services Emea Sarl
+* Apple Distribution International
+* Asana Ltd
+* Atlassian Corporation Plc
+* Basecamp Ltd
+* CalenderBridge
+* Campaign Monitor
+* CM.Com Belgium NV
+* Deploy HQ
+* DigitalOcean LLC
+* Figma
+* Fireflies.ai
+* Github Inc
 * Google Cloud Emea Ltd
 * Google Ireland Ltd
-* Microsoft Ireland Operations Limited
-* Apple Distribution International
-* Linode LLC
-* DigitalOcean LLC
-* Amazon Web Services Emea Sarl 
-* Mailgun Technologies Inc
+* Hetzner
+* Krystal Hosting Limited
 * Laravel LLC
-* Plesk LLC
-* Campaign Monitor 
-* Snapshooter Limited
-* Atlassian Corporation Plc
-* Github Inc
-* 3CX Ltd
-* Stripe Inc
+* LinkedIn Ireland Ltd
+* Linode LLC
+* Mailgun Technologies Inc
+* Microsoft Ireland Operations Limited
+* Notion Labs inc
+* OpenAI LLC
 * Openprovider BV
 * Pixel & Tonic, Inc
-* Krystal Hosting Limited
-* Zoho Corporation BV
-* CM.Com Belgium NV
-* Basecamp Ltd
-* Asana Ltd
-* LinkedIn Ireland Ltd
+* Plesk LLC
+* Snapshooter Limited
+* Starlink Services LLC
+* Stripe Inc
 * Telenet NV
 * VOO / Orange NV
-* Starlink Services LLC
-
+* Zoho Corporation BV
+* 3CX Ltd
